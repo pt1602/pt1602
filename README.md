@@ -1,6 +1,6 @@
 # Hello ✌️
 
-I am Philipp! A frontend webdeveloper from germany and currently learning a lot. 🥨
+I am Philipp and currently learning a lot about differnt frontend topics. Beside that I am interested in Linux, Thinkpads, Raspberry Pi's and a lot of other stuff.🐢
 
 Find me around the web 🌎:
 - 🌐 My web page: <a href="https://www.pt1602.de/" target="blank">www.pt1602.de</a>
