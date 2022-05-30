@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/badge/Website-%2335495e.svg?style=for-the-badge&logoColor=white)](https://www.pt1602.de/)
 [![Notebook](https://img.shields.io/badge/Notebook-%230db7ed.svg?style=for-the-badge&logoColor=white)](https://blog.pt1602.de/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ptgrafie/)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.pt1602.de/)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/pt1602)
 [![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Philipp_Tuchardt/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/1172718484?si=097a4c62b9594098)
 
