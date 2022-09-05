@@ -51,4 +51,6 @@ tech stuff like linux systems, thinkpads and raspberry pis.
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PT1602&layout=compact)](https://github.com/PT1602/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PT1602&langs_count=6&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=0000)](https://github.com/PT1602/github-readme-stats)
+
+![ProfileViews](https://komarev.com/ghpvc/?username=PT1602&color=55fff5)
