@@ -10,7 +10,7 @@
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/pt1602)
 
 My name is Philipp, I am a frontend developer based in the middle of germany. But I am also widely interested in other
-tech stuff like linux systems, thinkpads and raspberry pis.
+tech stuff like linux systems, 3d printing and photography.
 
 ---
 
