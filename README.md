@@ -9,8 +9,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/1172718484?si=097a4c62b9594098)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/pt1602)
 
-My name is Philipp, I am a frontend developer based in the middle of germany. But I am also widely interested in other
-tech stuff like linux systems, 3d printing and photography.
+My name is Philipp. I am a web developer based in the middle of Germany. Primarily coming from the frontend side, after CI/CD was getting my interest, I am now trying to focus on the backend more. Also widely interested in other tech stuff like Linux systems, 3D printing, and photography.
 
 ---
 
