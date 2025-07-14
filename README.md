@@ -1,10 +1,5 @@
 # Hey guys, welcome to my github 👋
 
-[![Website](https://img.shields.io/badge/Website-%23181717.svg?style=for-the-badge&logoColor=white)](https://www.pt1602.de/)
-[![XING](https://img.shields.io/badge/xing-%23181717.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Philipp_Tuchardt/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23181717.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ptgrafie/)
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23181717?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/pt1602)
-
 My name is Philipp. I am a web developer based in the middle of Germany. Primarily coming from the frontend side, after CI/CD was getting my interest, I am now trying to focus on the backend more. Also widely interested in other tech stuff like Linux systems, 3D printing, and photography.
 
 <br>
@@ -30,5 +25,3 @@ My name is Philipp. I am a web developer based in the middle of Germany. Primari
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PT1602&langs_count=6&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=0000)](https://github.com/PT1602/github-readme-stats)
-
-![ProfileViews](https://komarev.com/ghpvc/?username=PT1602&color=55fff5)
