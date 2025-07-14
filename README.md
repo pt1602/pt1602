@@ -23,6 +23,6 @@ My name is Philipp. I am a web developer based in the middle of Germany. Primari
 ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-%23181717?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
-<br>
+## Most used languages (on github)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PT1602&langs_count=6&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=0000)](https://github.com/PT1602/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PT1602&langs_count=6&layout=compact&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=181717&hide_border=true&hide_title=true)](https://github.com/PT1602/github-readme-stats)
