@@ -16,10 +16,11 @@ My name is Philipp. I am a web developer based in the middle of Germany. Primari
 ## Main tools
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23181717?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Bash](https://img.shields.io/badge/gnubash-%23181717?style=for-the-badge&logo=gnubash&logoColor=white)
+![Docker+DDEV](https://img.shields.io/badge/docker-%23181717.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/phpstorm-%23181717?style=for-the-badge&logo=phpstorm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23181717.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![PhpStorm](https://img.shields.io/badge/phpstorm-%23181717?style=for-the-badge&logo=phpstorm&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%23181717.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-%23181717?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
 <br>
