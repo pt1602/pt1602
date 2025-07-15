@@ -6,6 +6,7 @@ My name is Philipp. I am a web developer based in the middle of Germany. Primari
 
 ## Main tech stack
 ![Shopware](https://img.shields.io/badge/Shopware-%23181717.svg?style=for-the-badge&logo=shopware&logoColor=white)
+![Symfony](https://img.shields.io/badge/symfony-%23181717.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23181717.svg?style=for-the-badge&logo=PHP&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23181717.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%23181717.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
